@@ -1,3 +1,5 @@
+import telebot
+
 bot_token = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'
 channel_id = '@YOUR_TELEGRAM_CHANNEL_NAME_HERE'
 
